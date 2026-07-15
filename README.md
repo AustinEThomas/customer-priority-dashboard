@@ -52,22 +52,11 @@ The report uses custom DAX measures to calculate KPIs, summarize manufacturing p
 ```
 customer-priority-dashboard/
 
-dashboard/
-    Customer_Priority_Dashboard.pbix
-
 images/
     Dashboard_Overview.png
 
 README.md
 ```
-
----
-
-# Getting Started
-
-1. Download or clone the repository.
-2. Open the `.pbix` file in Power BI Desktop.
-3. Refresh the report if using your own data source.
 
 ---
 
