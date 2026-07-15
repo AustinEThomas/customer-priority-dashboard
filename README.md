@@ -10,7 +10,7 @@ An interactive Power BI dashboard I built to help manufacturing teams prioritize
 ![Excel](https://img.shields.io/badge/Data-Excel-217346?logo=microsoft-excel&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 
-![Dashboard Overview](images/Dashboard_Overview.png)
+![Dashboard Overview](images/customer-priority-dashboard.png)
 
 ---
 
